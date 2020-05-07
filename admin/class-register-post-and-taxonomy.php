@@ -4,7 +4,7 @@
  * Custom Post Type & Taxonomy
  */
 
-namespace Quick_And_Easy_FAQs\Admin;
+namespace Quick_And_Easy_Faqs\Admin;
 
 class Register_Post_And_Taxonomy {
 
